@@ -1,4 +1,4 @@
-module datapoint
+module github.com/vitineth/datapoint
 
 go 1.22
 
